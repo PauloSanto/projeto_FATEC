@@ -8,7 +8,7 @@ Somos uma empresa que produz artefatos de cimento, são 100 itens diferentes com
 
 Descrição da ideia:
  
-Elaboração de um software capaz de gerenciar o cadastro de produtos, controle de venda e estoque nos pontos de vendas, e emissão de relatórios de vendas e estoque quando solicitado, por item e por ponto de venda.
+Desenvolvimento de um software capaz de gerenciar o cadastro de produtos, controle de venda e estoque nos pontos de vendas, e emissão de relatórios de vendas e estoque quando solicitado, por item e por ponto de venda.
 
 
 Participantes do grupo:
