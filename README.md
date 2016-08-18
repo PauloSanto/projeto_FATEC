@@ -3,15 +3,12 @@ Título do Projeto: Logística, controle de produtos e vendas.
 
 Proposta do cliente:
 
-Sou uma empresa que produz artefatos de cimento, produzo 100 itens diferentes, tenho 5 pontos de vendas, necessito de um software para controlar o estoque
-de cada item nos pontos de vendas, desejo acrescentar e excluir itens de venda e pontos de venda quando julgar necessário, bem como emitir relatórios   de 
-vendas e estoque por item e por ponto de venda. 
+Somos uma empresa que produz artefatos de cimento, são 100 itens diferentes com 5 pontos de vendas. Necessitamos de um software para controlar o estoque de cada item nestes pontos de vendas, com opção de acréscimo e exclusão de produtos e pontos de venda quando julgarmos necessário, bem como emissão de relatórios de vendas e controle de estoque por item e por ponto de venda. 
 
 
 Descrição da ideia:
  
-Elaborar um software capaz de gerenciar o cadastro de produtos, o estoque destes produtos nos pontos de vendas, a venda destes produtos e emitir    quando 
-solicitado relatórios de vendas e estoque por item e por ponto de venda.
+Elaboração de um software capaz de gerenciar o cadastro de produtos, controle de venda e estoque nos pontos de vendas, e emissão de relatórios de vendas e estoque quando solicitado, por item e por ponto de venda.
 
 
 Participantes do grupo:
