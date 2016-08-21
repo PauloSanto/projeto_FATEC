@@ -3,17 +3,23 @@ Título do Projeto: Logística, controle de produtos e vendas.
 
 Proposta do cliente:
 
-Somos uma empresa que produz artefatos de cimento, são 100 itens diferentes com 5 pontos de vendas. Necessitamos de um software para controlar o estoque de cada item nestes pontos de vendas, com opção de acréscimo e exclusão de produtos e pontos de venda quando julgarmos necessário, bem como emissão de relatórios de vendas e controle de estoque por item e por ponto de venda. 
+Somos uma empresa que produz artefatos de cimento, são 100 itens diferentes com 5 pontos de vendas. 
+Necessitamos de um software para controlar o estoque de cada item nestes pontos de vendas, 
+com opção de acréscimo e exclusão de produtos e pontos de venda quando julgarmos necessário, 
+bem como emissão de relatórios de vendas e controle de estoque por item e por ponto de venda. 
 
 
 Descrição da ideia:
  
-Desenvolvimento de um software capaz de gerenciar o cadastro de produtos, controle de venda e estoque nos pontos de vendas, e emissão de relatórios de vendas e estoque quando solicitado, por item e por ponto de venda.
+Desenvolvimento de um software capaz de gerenciar o cadastro de produtos, controle de venda e estoque nos pontos de vendas, 
+emissão de relatórios de vendas e estoque quando solicitado, por item e por ponto de venda.
 
 QUEM SÃO OS TRABALHADORES DE NEGÓCIO (E O PERFIL DE ALGUNS DELES):
-Vendedores: responsáveis em verificar a disponibilidade do produto no seu ponto de venda ou em outros pontos de venda para efetuar a venda e posteriormente dar baixa no estoque.
-Controller: responsável em acrescentar e excluir itens de venda e pontos de venda quando julgar necessário, bem como emitir relatórios de vendas e estoque por item e por ponto de venda.
-Gerente de produção: responsável em adequar a produção a demanda de vendas e administrar o negocio juntamente com o controller.
+1. Vendedores: responsáveis em verificar a disponibilidade do produto no seu ponto de venda ou em outros pontos de venda para 
+efetuar a venda e posteriormente dar baixa no estoque.
+2. Controller: responsável em acrescentar e excluir itens de venda e pontos de venda quando julgar necessário, bem como emitir relatórios 
+de vendas e estoque por item e por ponto de venda.
+3. Gerente de produção: responsável em adequar a produção a demanda de vendas e administrar o negocio juntamente com o controller.
 
 QUEM SÃO OS ATORES DE NEGÓCIO (E O PERFIL DE ALGUNS DELES):
 Vendedores e compradores
