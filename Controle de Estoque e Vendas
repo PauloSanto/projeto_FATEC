@@ -10,6 +10,23 @@ Descrição da ideia:
  
 Desenvolvimento de um software capaz de gerenciar o cadastro de produtos, controle de venda e estoque nos pontos de vendas, e emissão de relatórios de vendas e estoque quando solicitado, por item e por ponto de venda.
 
+QUEM SÃO OS TRABALHADORES DE NEGÓCIO (E O PERFIL DE ALGUNS DELES):
+Vendedores: responsáveis em verificar a disponibilidade do produto no seu ponto de venda ou em outros pontos de venda para efetuar a venda e posteriormente dar baixa no estoque.
+Controller: responsável em acrescentar e excluir itens de venda e pontos de venda quando julgar necessário, bem como emitir relatórios de vendas e estoque por item e por ponto de venda.
+Gerente de produção: responsável em adequar a produção a demanda de vendas e administrar o negocio juntamente com o controller.
+
+QUEM SÃO OS ATORES DE NEGÓCIO (E O PERFIL DE ALGUNS DELES):
+Vendedores e compradores
+
+QUAIS SÃO OS PRINCIPAIS DADOS DESCRITIVOS DO NEGÓCIO:
+
+QUAIS SÃO AS PRINCIPAIS ATIVIDADES DE NEGÓCIO:
+
+AO MENOS UMA ATIVIDADE DE NEGÓCIO DETALHADA COM UM DIAGRAMA DE ATIVIDADES OU EQUIVALENTE:
+
+ALGUMAS REGRAS DE NEGÓCIO DESCRITAS:
+
+
 
 Participantes do grupo:
 
